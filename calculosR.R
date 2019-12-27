@@ -40,3 +40,4 @@ wt
 
 mtcars.new <- transform(mtcars,wt=(wt*1000)/2)
 summary(mtcars.new)
+
